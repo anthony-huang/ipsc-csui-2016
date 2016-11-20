@@ -1,0 +1,8 @@
+Easy:
+- Genap = Pedro
+- Ganjil = Juan
+
+Hard:
+- Prima = Diego
+- Kuadrat = Juan
+- Bukan keduanya = Pedro

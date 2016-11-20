@@ -1,0 +1,45 @@
+Iseng (Easy)
+
+
+[Deskripsi Soal]
+
+[i]Soal ini adalah soal iseng. Saking isengnya, berkas masukan untuk soal ini tidak diberikan secara langsung kepada kalian. Kalian harus mencari tahu sendiri.[/i]
+
+Singkat cerita, pada zaman dahulu hiduplah seorang raja yang mempunyai tiga orang putera, pada putera pertamanya bernama Pedro, putera keduanya bernama Diego dan putera yang ketiga bernama Juan. Pada suatu ketika, sang raja memerintahkan putera-puteranya untuk pergi dari istana agar mereka bisa mendapatkan pasangan mereka masing-masing.
+
+Sudah berhari-hari mereka berjalan, suatu ketika Pedro dan Juan bertemu dengan seorang kakek tua. Kemudian si kakek tua itu memberikan sepotong roti kepada Don Juan dan merintah untuk pergi ke sebuah istana yang jaraknya satu mil untuk sampai ke istana tersebut. Namun sebelum Juan pergi si kakek tua itu berkata, “Supaya kau bisa masuk ke istana tersebut, kau harus memberikan roti-roti ini kepada para monyet yang menjaga gerbang istana." Setibanya di depan istana, Don Juan memberikan roti itu kepada monyet yang sedang menjaga gerbang istana. Dan kemudian, Don Juan dipersilahkan masuk ke istana dan bertemu dengan seekor monyet yang besar. Hampir saja si Don Juan lari ketakutan, tiba-tiba dipanggillah oleh monyet besar itu "Hei Don Juan, aku tahu tujuanmu datang kesini untuk mencari jodoh. Tenang, puteriku Chonguita mau menikahimu." Akhirnya menikahlah Don Juan dengan Chonguita puteri dari seekor monyet besar yang tinggal di istana.
+
+Beberapa hari kemudian setelah mereka menikah, Don Juan meminta izin kepada isterinya untuk bertemu dengan ayahnya. Ibunya Chonguita mendengar kalau menantunya ingin pergi, dan ia berkata kepada Don Juan "Bawalah juga isterimu pergi." Dibawalah Chonguita ke istana untuk bertemu sang Raja. Disambutlah kedatangan mereka oleh sang raja, tetapi sang raja sangatlah kecewa dan malu ketika Don Juan mengenalkan isterinya yang hanya seekor monyet. Semakin hari sang raja semakin malu dengan mempunyai seorang menantu yang menjadi seekor monyet dan ia memikirkan bagaimana caranya agar bisa menyingkirkan Chonguita dari istana. Beberapa hari kemudian sang raja memanggil semua puteranya dan berkata, "Bicaralah pada isteri-isteri kalian, untuk membuatkan mantel bersulam untukku. Dari isteri-isteri kalian yang tidak berhasil membuatkannya dalam waktu tiga hari akan dihukum mati."
+
+Sang raja sangat menginginkan kalau Chonguita lah yang tidak bisa membuat mantel sehingga dirinya yang akan dihukum mati, tetapi pada hari ketiga semua menantunya menyerahkan hasil buatanya masing-masing kepada raja. Dari ketiga hasil mantel buatan menantunya, hanya ada satu mantel yang paling indah dan bagus yaitu mantel sulaman buatan yang Chonguita. Sang raja masih sangat meninginkan untuk menyingkirkan CKarena, kemudian raja mencari ide kembali. Beberapa saat kemudian, sang raja menyuruh kembali untuk para menantunya agar bisa membuatkan topi dari sulaman dengan jangka waktu dua hari dengan diberikan ancaman yang sama yaitu dihukum mati. Para menantu raja dapat menyelesaikan topi itu tepat waktu yang diberikan raja.
+
+Sang rajapun belum bisa menyingkirkannya, dan ia terus saja mencari ide bagaimana caranya. Suatu ketika sang raja kembali memanggil ketiga menantunya dan berkata kepada mereka semua, "Siapa dari kalian yang dapat membuat lukisan paling indah dalam jangka waktu tiga hari, aku berjanji akan menjadikan suami kalian untuk menjadi raja dan memimpin istana ini." Sampai pada hari yang dimana sang raja memberikan batas waktu kepada menantunya untuk menyelesaikan lukisan itu. Setelah sang raja melihatnya, ternyata lukisan yang paling indah ialah lukisan yang dibuat oleh Chonguita, akhirnya sesuai janji yang sang raja berikan. Maka diberikanlah kepemimpinan kerajaan kepada Don Juan, suami dari Chonguita yang sang raja ingin sekali menyingkirkannya.
+
+Dibuatlah pesta yang mewah untuk mennyambut raja yang baru. Di dalam keramaian pesta, Chonguita meminta agar dirinya dapat berdansa dengan Don Juan. Di saat itulah Don Juan sangat marah sehingga Chonguita di dorongnya sampai menyentuh dinding. Maka pada saat itulah semua ruangan menjadi gelap gulita, namun kemudian ruangan tersebut menjadi sangat terang dan Chonguita berubah menjadi seorang wanita cantik yang anggun.
+
+Sumber dongeng tersebut berasal dari Filipina.
+
+
+[Format Masukan]
+
+Sebuah bilangan bulat N.
+
+
+[Format Keluaran]
+
+Sebuah string berupa "Pedro" atau "Juan".
+
+
+[Contoh Masukan]
+
+42
+
+
+[Contoh Keluaran]
+
+Pedro
+
+
+[Batasan]
+
+1 ≤ N ≤ 1.000.000.000
