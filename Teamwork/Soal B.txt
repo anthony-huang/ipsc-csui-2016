@@ -1,0 +1,6 @@
+Lala dan Lili sedang berjalan di sebuah mall dan tidak sengaja menjatuhkan sekantung bola di sebuah toko mainan. 
+Bola-bola tersebut memiliki angka  N yang tertulis di sisinya, 0 <= N <= 1000000000. Setiap bola memiliki pasangannya masing-masing yang ditandai dengan nomor bola yang sama, misalnya bola bernomor N berpasangan dengan bola lain yang nomor N. Namun, diketahui terdapat satu bola yang tidak memiliki pasangan.
+
+Selain itu, ternyata toko mainan tersebut sudah tidak membutuhkan bola dengan nomor yang merupakan bilangan fibonacci, sehingga bola dengan nomor N bilangan fibonacci perlu dibuang dan tidak dianggap.
+
+Bantu Lala dan Lili menemukan nomor bola yang tidak memiliki pasangannya tersebut :')
