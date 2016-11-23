@@ -31,7 +31,7 @@ protected:
 	}
 
 	void SampleTestCases() {
-		SAMPLE_CASE({"42",{1});
+		SAMPLE_CASE({"42"},{1});
 	}
 
 	void TestGroup1() {
